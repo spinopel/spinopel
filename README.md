@@ -1,4 +1,4 @@
-## Hi there 👋, my name is Spin Opel.
+## Hi there 👋
 
 Skills: PHP / JS / HTML / CSS / SCSS / LESS / Bootstrap / MySQL / jQuery / UNIX / GitHub / SVN / Apache / Kotlin / NativeScript
 
