@@ -1,20 +1,17 @@
-## Hi there 👋
+## Hi there, i’m @spinopel 👋
 
-Skills: PHP / JS / HTML / CSS / SCSS / LESS / Bootstrap / MySQL / jQuery / UNIX / GitHub / SVN / Apache / Kotlin / NativeScript
+Skills: PHP / JS / HTML / CSS / SCSS / LESS / Bootstrap / MySQL / jQuery / UNIX / GitHub / Apache / Kotlin / NativeScript
 
 - 🔭 I’m currently working on personal website.
 - 🌱 I’m currently learning Kotlin.
 - 💬 Ask me about web development.
+- 😄 Pronouns: he/him.
+- 🤔 Online community for developers: https://stackoverflow.com/users/15816354/spinopel
+- 📫 Contact with me through my website.
 
 <!--
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on personal website.
-- 🌱 I’m currently learning Kotlin.
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about web development.
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
